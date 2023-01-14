@@ -1,15 +1,14 @@
 # CATALAGO ALURA BOOKS
-Afim de resolver 
+Afim de resolver um problema de validação de dados de um formulário, em que vários usuários faziam vários preenchimentos de endereço de formas diferentes, a melhor forma de validar os dados é pelo ViaCEP. Com um banco de dados online, faço um consumo de uma API para aproveitar pelo número do CEP dados básicos que não se alteram por usuário.
 
-**Acesse esse link para testar (google Chrome recomendado): https://joaoadorno04.github.io/Numero-Quantico/**
+**Acesse esse link para testar: **
 
 ## DESENVOLVIMENTO
-Projeto feito em conjunto com o curso de JAVASCRIPT: VALIDAÇÕES E RECONHECIMENTO DE VOZ. Sendo alterado para manter o objetivo principal do curso com uma proposta semelhante.
-Durante o curso, foi usado 100% Javascript em cima de HTML e CSS. Com o objetivo de aprimorar orientação objeto e uso de funções para interatividade do usuário com a página e também uma API do google para reconhecimento de voz
+Projeto feito em conjunto com o curso de JavaScript: consumindo e tratando dados de uma API. Durante o curso, foi usado 100% Javascript em cima de HTML e CSS. Com o objetivo de aprimorar orientação objeto e uso de funções para interatividade do usuário com a página e também uma API do ViaCEP para validação de dados.
 
 
 
 
 ## CONCLUSÃO
-O projeto foi muito incrível de se fazer, principalmente por ter me inspirado em uma mídia o qual amo muito que é Outer Wilds (Jogo da Annapurna). Além agradecer bastante ao professor Guilherme Lima que foi um dos primeiros professores a me introduzir ao mundo da programação durante a Imersão dev no ano de 2022.
-**link do certificado:https://cursos.alura.com.br/certificate/7a3bde84-6aa7-4f39-bf93-641a8f7e3160**
+O projeto foi muito incrível de se fazer, principalmente por me demonstrar o que seria mais próximo da realidade de um programador que faz serviços para empresas e seus sites online. Além agradecer bastante a professora Moni Hillman, que durante a jornada do front end me apresentou bastante das funcionaldiades da área.
+**link do certificado:https://cursos.alura.com.br/certificate/170bcd46-7974-4a80-a0fa-6e1fdaa31f11**
